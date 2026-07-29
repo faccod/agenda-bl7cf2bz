@@ -95,4 +95,18 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete: abrir o cofre do Satiro as
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260812-dr-carlos-alberto-pneumo-1300@agenda.matheus
+DTSTAMP:20260729T173926
+DTSTART:20260812T130000
+DTEND:20260812T140000
+SUMMARY:Consulta Dr. Carlos Alberto — Pneumologia (risco cirúrgico)
+DESCRIPTION:Dr. Carlos Alberto Gomes dos Santos (RQE 87) — Pneumologia. Risco cirúrgico pré-artroscopia ombro direito (18/08). Endereço: R. Doutor Eurico de Aguiar, 130 sala 514 - Praia do Canto, Vitória/ES. Tel: (27) 3345-0564. WhatsApp: (27) 99889-5629.
+LOCATION:R. Doutor Eurico de Aguiar, 130 sala 514 - Praia do Canto, Vitória/ES
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Consulta Dr. Carlos Alberto (Pneumologia)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
