@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mavis//Agenda Matheus//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda - Matheus
+X-WR-CALDESC:Consultas, compromissos e vida pessoal
+BEGIN:VEVENT
+UID:2026-08-12-endocrino@agenda.matheus
+DTSTAMP:20260729T130000Z
+DTSTART:20260812T084500
+DTEND:20260812T091500
+SUMMARY:Consulta - Endocrino (Dra. Claudia Kohler)
+LOCATION:Ed. Master Tower, Sala 1013, Enseada do Sua, Vitoria/ES
+DESCRIPTION:Consulta de rotina com Dra. Claudia Kohler (Endocrinologia e Medicina Estetica, CRM-ES 57879). ATENCAO: 6 dias antes da cirurgia do ombro direito (18/08). LEVAR: exames pre-operatorios recentes (hemograma 14/05, ultrassom abdominal 22/01), carteirinha Unimed, documento com foto. Perguntar sobre jejum pre-cirurgia.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Consulta Endo com Dra. Claudia em 1h
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12-cardio@agenda.matheus
+DTSTAMP:20260729T130000Z
+DTSTART:20260812T152000
+DTEND:20260812T160500
+SUMMARY:Consulta - Cardiologista (Dr. Paulo Cesar) - Risco Cirurgico
+LOCATION:CARDIOMED - 3o andar do Vitoria Apart Hospital (Av. N. Sra. da Penha)
+DESCRIPTION:Consulta com Dr. Paulo Cesar M. Loureiro (Cardiologista, CRM-ES 6773) para avaliacao do risco cirurgico pre-operatorio. LEVAR: hemograma 14/05, ultrassom abdominal 22/01, pedido de risco cardiologico 28/07 (Dr. Pacheco), carteirinha Unimed. Apos essa consulta sai o laudo. Contato CARDIOMED: (27) 3010-3955 | WhatsApp (27) 99831-1619.
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Consulta Cardio com Dr. Paulo em 1h
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-18-cirurgia@agenda.matheus
+DTSTAMP:20260729T130000Z
+DTSTART:20260818T150000
+DTEND:20260818T190000
+SUMMARY:CIRURGIA - Artroscopia Ombro Direito (Dr. Pacheco)
+LOCATION:Unimed Vitoria - CIAS
+DESCRIPTION:CIRURGIA do ombro DIREITO: Artroscopia. Chegada no hospital: 13h. LEVAR ACOMPANHANTE maior de idade (assina internacao junto). JEJUM ABSOLUTO de 8h antes (a partir das 7h). Levar: termo de consentimento + todos os exames (risco cirurgico + pre-anestesico), documento, carteirinha, tipoia (se indicada). Vestir roupas confortaveis, sem acessorios, sem esmalte. Suspender anticoagulantes/hipoglicemiantes.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Cirurgia do ombro AMANHA
+END:VALARM
+END:VEVENT
+END:VCALENDAR
