@@ -97,4 +97,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete: vacinas das cachorras /26
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260910-confernciadocartodig@agenda.matheus
+DTSTAMP:20260818T144617
+DTSTART:20260910T090000
+DTEND:20260910T090000
+SUMMARY:conferência do cartão digio da Andressa no dia / cobrança de juros
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: conferência do cartão digio da Andressa no dia / cobrança de juros
+END:VALARM
+END:VEVENT
 END:VCALENDAR
