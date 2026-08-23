@@ -169,4 +169,93 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Teste as
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-voo-ida-gramado@agenda.matheus
+DTSTAMP:20260823T185403
+DTSTART:20270104T094000
+DTEND:20270104T175500
+SUMMARY:VOO IDA - VIX -> GRU -> CXJ (Latam 4593+3838)
+LOCATION:Aeroporto Vitoria -> Aeroporto Caxias do Sul (CXJ)
+DESCRIPTION:Voo LATAM ida pra Gramado/RS com a familia (Matheus + Andressa + Antonio 4a).
+Trecho 1: VIX 09:40 -> GRU 11:20 (Latam 4593)
+Trecho 2: GRU 16:15 -> CXJ 17:55 (Latam 3838)
+SEM BAGAGEM. Apresentar documento com foto. Chegar 2h antes.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: VOO IDA - VIX -> GRU -> CXJ (Latam 4593+3838)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-04-checkin-hotel-bertoluci@agenda.matheus
+DTSTAMP:20260823T185403
+DTSTART:20270104T140000
+DTEND:20270104T150000
+SUMMARY:CHECK-IN - Hotel Bertoluci (Gramado)
+LOCATION:Av. das Hortensias, 5532 - Centro, Gramado - RS, 95670-670
+DESCRIPTION:Check-in no Hotel Bertoluci - 4 noites. 2 adultos + 1 crianca de 4a (Antonio).
+Cafe da manha incluso. Voltagem 220V. Check-in a partir das 14h.
+Levar documento de identificacao FISICO de todos (CNH/ID/Certidao).
+Estacionamento e Wi-Fi gratis.
+Reserva via Mais Viagens ES - Cristiane (27) 99718-9255.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: CHECK-IN - Hotel Bertoluci (Gramado)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-04-retirada-carro-cxj@agenda.matheus
+DTSTAMP:20260823T185403
+DTSTART:20270104T190000
+DTEND:20270104T200000
+SUMMARY:RETIRADA CARRO - Aeroporto Caxias do Sul (CXJ)
+LOCATION:Aeroporto de Caxias do Sul (CXJ)
+DESCRIPTION:Retirada do carro no balcao da locadora (codigo: MOBXKM94TB5A).
+Levar: CNH fisica definitiva dentro da validade (digital pode nao ser aceita), cartao de credito FISICO nominal ao locatario (recomendado).
+A retirada esta sujeita a analise cadastral na loja.
+Devolucao provavelmente no mesmo local 08/01.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: RETIRADA CARRO - Aeroporto Caxias do Sul (CXJ)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-08-checkout-hotel-bertoluci@agenda.matheus
+DTSTAMP:20260823T185403
+DTSTART:20270108T110000
+DTEND:20270108T120000
+SUMMARY:CHECK-OUT - Hotel Bertoluci (Gramado)
+LOCATION:Hotel Bertoluci - Gramado/RS
+DESCRIPTION:Check-out do hotel ate as 12h.
+Levar todas as malas e verificar se nada foi esquecido no quarto.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: CHECK-OUT - Hotel Bertoluci (Gramado)
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2027-01-08-voo-volta-vitoria@agenda.matheus
+DTSTAMP:20260823T185403
+DTSTART:20270108T183500
+DTEND:20270109T005000
+SUMMARY:VOO VOLTA - CXJ -> GRU -> VIX (Latam 3839+3336)
+LOCATION:Aeroporto Caxias do Sul (CXJ) -> Aeroporto Vitoria (VIX)
+DESCRIPTION:Voo LATAM volta de Gramado/RS pra Vitoria/ES.
+Trecho 1: CXJ 18:35 -> GRU 20:15 (Latam 3839)
+Trecho 2: GRU 23:20 -> VIX 00:50 do dia 09/01 (Latam 3336)
+Devolver carro no aeroporto antes do check-in do voo.
+SEM BAGAGEM. Apresentar documento com foto.
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: VOO VOLTA - CXJ -> GRU -> VIX (Latam 3839+3336)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
