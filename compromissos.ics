@@ -362,4 +362,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): para Matheus Fazer novo pendrive de músicas animadas para loja de ST
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260922-drpaulootorrinoparaa@agenda.matheus
+DTSTAMP:20260909T122340
+DTSTART:20260922T134000
+DTEND:20260922T134000
+SUMMARY:[Andressa] Dr Paulo otorrino para Antônio h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Dr Paulo otorrino para Antônio h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
