@@ -314,4 +314,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): comprar agnoline para Madrinha as /26
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260912-levarpodparasantaleo@agenda.matheus
+DTSTAMP:20260908T214719
+DTSTART:20260912T090000
+DTEND:20260912T090000
+SUMMARY:[Matheus] Levar pod para Santa Leopoldina dia /26
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): Levar pod para Santa Leopoldina dia /26
+END:VALARM
+END:VEVENT
 END:VCALENDAR
