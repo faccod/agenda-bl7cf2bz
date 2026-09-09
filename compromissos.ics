@@ -386,4 +386,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): para todos Feira científica e cultural do Antônio Dia a O dia inteiro
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261021-paramatheusaniversri@agenda.matheus
+DTSTAMP:20260909T122713
+DTSTART:20261021T183000
+DTEND:20261021T183000
+SUMMARY:[Matheus] para Matheus Aniversário da Angelina Somente 3 horas de festa Os parabéns vai ser cantado as 19 Dia horas
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): para Matheus Aniversário da Angelina Somente 3 horas de festa Os parabéns vai ser cantado as 19 Dia horas
+END:VALARM
+END:VEVENT
 END:VCALENDAR
