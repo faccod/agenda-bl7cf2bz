@@ -398,4 +398,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): para Matheus Aniversário da Angelina Somente 3 horas de festa Os parabéns vai ser cantado as 19 Dia horas
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260910-matheusacertarohorri@agenda.matheus
+DTSTAMP:20260909T143238
+DTSTART:20260910T090000
+DTEND:20260910T090000
+SUMMARY:[Matheus] @matheus Acertar o horário das câmeras ST Bloquear o acesso dos meninos em transferência e saída no sistema
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): @matheus Acertar o horário das câmeras ST Bloquear o acesso dos meninos em transferência e saída no sistema
+END:VALARM
+END:VEVENT
 END:VCALENDAR
