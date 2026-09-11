@@ -434,4 +434,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Andressa comprar remédio de verme cachorras /26 às 15 horas
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260911-andressacomprarremdi@agenda.matheus
+DTSTAMP:20260910T234805
+DTSTART:20260911T150000
+DTEND:20260911T150000
+SUMMARY:[Andressa] Andressa comprar remédio de verme cachorras /26
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Andressa comprar remédio de verme cachorras /26
+END:VALARM
+END:VEVENT
 END:VCALENDAR
