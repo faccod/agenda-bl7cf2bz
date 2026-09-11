@@ -446,4 +446,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Andressa comprar remédio de verme cachorras /26
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260912-paramatheusentregara@agenda.matheus
+DTSTAMP:20260911T161856
+DTSTART:20260912T163000
+DTEND:20260912T163000
+SUMMARY:[Matheus] para @matheus Entregar a chave da loja de ST para Kika h dia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): para @matheus Entregar a chave da loja de ST para Kika h dia
+END:VALARM
+END:VEVENT
 END:VCALENDAR
