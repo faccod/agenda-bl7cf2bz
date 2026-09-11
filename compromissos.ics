@@ -422,4 +422,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): @matheus Acertar o horário das câmeras ST Bloquear o acesso dos meninos em transferência e saída no sistema h
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260911-andressacomprarremdi@agenda.matheus
+DTSTAMP:20260910T234729
+DTSTART:20260911T090000
+DTEND:20260911T090000
+SUMMARY:[Andressa] Andressa comprar remédio de verme cachorras /26 às 15 horas
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Andressa comprar remédio de verme cachorras /26 às 15 horas
+END:VALARM
+END:VEVENT
 END:VCALENDAR
