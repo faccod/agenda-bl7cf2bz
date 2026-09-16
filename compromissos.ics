@@ -506,4 +506,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): @matheus Conferir se finalizou o pedido de cigarro
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260916-matheusconfirmaroret@agenda.matheus
+DTSTAMP:20260916T094036
+DTSTART:20260916T103000
+DTEND:20260916T103000
+SUMMARY:[Matheus] @matheus Confirmar o retorno do dr pneumologista para a consulta h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): @matheus Confirmar o retorno do dr pneumologista para a consulta h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
