@@ -590,4 +590,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Bloquear a função de entrada saída e transferência dos funcionários nas duas filiais
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260921-estenderaroupadamqui@agenda.matheus
+DTSTAMP:20260921T083332
+DTSTART:20260921T092000
+DTEND:20260921T092000
+SUMMARY:[Andressa] Estender a roupa da máquina h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Estender a roupa da máquina h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
