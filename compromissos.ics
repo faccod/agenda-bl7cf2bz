@@ -578,4 +578,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Vacinar as cachorrinhas
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260921-bloquearafunodeentra@agenda.matheus
+DTSTAMP:20260921T075700
+DTSTART:20260921T153000
+DTEND:20260921T153000
+SUMMARY:[Andressa] Bloquear a função de entrada saída e transferência dos funcionários nas duas filiais
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Bloquear a função de entrada saída e transferência dos funcionários nas duas filiais
+END:VALARM
+END:VEVENT
 END:VCALENDAR
