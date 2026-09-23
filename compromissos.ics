@@ -662,4 +662,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): ivid de comprar cartão de memória /26 às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260924-comprarfraldasantnio@agenda.matheus
+DTSTAMP:20260923T205336
+DTSTART:20260924T100000
+DTEND:20260924T100000
+SUMMARY:[Matheus] comprar fraldas Antônio /26 às
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): comprar fraldas Antônio /26 às
+END:VALARM
+END:VEVENT
 END:VCALENDAR
