@@ -650,4 +650,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Dia pé na Naty
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260925-ividdecomprarcartode@agenda.matheus
+DTSTAMP:20260923T205254
+DTSTART:20260925T090000
+DTEND:20260925T090000
+SUMMARY:[Matheus] ivid de comprar cartão de memória /26 às
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): ivid de comprar cartão de memória /26 às
+END:VALARM
+END:VEVENT
 END:VCALENDAR
