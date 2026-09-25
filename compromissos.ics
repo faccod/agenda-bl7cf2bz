@@ -746,4 +746,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): em trazer refil da ignit
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260925-finalizaropedidodafr@agenda.matheus
+DTSTAMP:20260925T005113
+DTSTART:20260925T100000
+DTEND:20260925T100000
+SUMMARY:[Andressa] Finalizar o pedido da fralda e ver que busca
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Finalizar o pedido da fralda e ver que busca
+END:VALARM
+END:VEVENT
 END:VCALENDAR
