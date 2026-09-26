@@ -770,4 +770,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): pneumologista /26 às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260926-entraremcontatocomos@agenda.matheus
+DTSTAMP:20260925T220311
+DTSTART:20260926T110000
+DTEND:20260926T110000
+SUMMARY:[Andressa] Entrar em contato com o super para perguntar se Thais pode pegar as fraldas
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Entrar em contato com o super para perguntar se Thais pode pegar as fraldas
+END:VALARM
+END:VEVENT
 END:VCALENDAR
