@@ -782,4 +782,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Entrar em contato com o super para perguntar se Thais pode pegar as fraldas
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260928-colocaracobertadascr@agenda.matheus
+DTSTAMP:20260927T195152
+DTSTART:20260928T080000
+DTEND:20260928T080000
+SUMMARY:[Andressa] Colocar a coberta das crianças para lavar na lavagem curta
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Colocar a coberta das crianças para lavar na lavagem curta
+END:VALARM
+END:VEVENT
 END:VCALENDAR
