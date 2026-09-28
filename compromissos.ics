@@ -818,4 +818,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Resolver com Thaís em buscar as fraldas do Antônio
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260930-ssevouconseguirirnaf@agenda.matheus
+DTSTAMP:20260928T190245
+DTSTART:20260930T170000
+DTEND:20260930T170000
+SUMMARY:[Matheus] às se vou conseguir ir na fisioterapia na as
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): às se vou conseguir ir na fisioterapia na as
+END:VALARM
+END:VEVENT
 END:VCALENDAR
