@@ -806,4 +806,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): água do arroz
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260928-resolvercomthasembus@agenda.matheus
+DTSTAMP:20260927T212105
+DTSTART:20260928T100000
+DTEND:20260928T100000
+SUMMARY:[Andressa] Resolver com Thaís em buscar as fraldas do Antônio
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Resolver com Thaís em buscar as fraldas do Antônio
+END:VALARM
+END:VEVENT
 END:VCALENDAR
