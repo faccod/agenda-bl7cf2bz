@@ -926,4 +926,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): lembrete de pagar o boleto lipaus às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261007-trazerolivrococxixib@agenda.matheus
+DTSTAMP:20261006T181641
+DTSTART:20261007T093000
+DTEND:20261007T093000
+SUMMARY:[Andressa] Trazer o livro cocô xixi é bum h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Trazer o livro cocô xixi é bum h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
