@@ -902,4 +902,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Matheus Revisão do meu carro o melhor dia para vc dia 19 vc já estará em vix Dia 14 horas
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261007-reunionaescoladoantn@agenda.matheus
+DTSTAMP:20261006T112347
+DTSTART:20261007T073000
+DTEND:20261007T073000
+SUMMARY:[Andressa] Reunião na escola do Antônio Para a formatura dele Dia 20 outubro As h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Reunião na escola do Antônio Para a formatura dele Dia 20 outubro As h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
