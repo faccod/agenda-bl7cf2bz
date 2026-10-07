@@ -986,4 +986,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): fisioterapia dia às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261013-feiraexameadmissiona@agenda.matheus
+DTSTAMP:20261007T160533
+DTSTART:20261013T070000
+DTEND:20261013T070000
+SUMMARY:[Andressa] feira exame admissional para Cauã Às Dia
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): feira exame admissional para Cauã Às Dia
+END:VALARM
+END:VEVENT
 END:VCALENDAR
