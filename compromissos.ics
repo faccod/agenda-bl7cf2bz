@@ -962,4 +962,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Levar aparelho Deoniro às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261020-reunionaescoladoantn@agenda.matheus
+DTSTAMP:20261007T063212
+DTSTART:20261020T073000
+DTEND:20261020T073000
+SUMMARY:[Andressa] Reunião na escola do Antônio Para formatura Dia h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Reunião na escola do Antônio Para formatura Dia h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
