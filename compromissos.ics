@@ -1082,4 +1082,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Fisioterapia às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261014-slogarowhatsappdopod@agenda.matheus
+DTSTAMP:20261014T183353
+DTSTART:20261014T191500
+DTEND:20261014T191500
+SUMMARY:[Matheus] às logar o Whats app do pod no notebook
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): às logar o Whats app do pod no notebook
+END:VALARM
+END:VEVENT
 END:VCALENDAR
