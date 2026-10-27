@@ -1214,4 +1214,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Antônio vai ser liberado às
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261028-trazerrotiadorparalo@agenda.matheus
+DTSTAMP:20261027T182654
+DTSTART:20261028T090000
+DTEND:20261028T090000
+SUMMARY:[Andressa] Trazer Rotiador para loja sem internet Lembrar Cauã da bicho
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Trazer Rotiador para loja sem internet Lembrar Cauã da bicho
+END:VALARM
+END:VEVENT
 END:VCALENDAR
