@@ -1226,4 +1226,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Trazer Rotiador para loja sem internet Lembrar Cauã da bicho
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261028-arrumaroleddavitrine@agenda.matheus
+DTSTAMP:20261027T183933
+DTSTART:20261028T080000
+DTEND:20261028T080000
+SUMMARY:[Andressa] Arrumar o led da vitrine da loja
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Arrumar o led da vitrine da loja
+END:VALARM
+END:VEVENT
 END:VCALENDAR
