@@ -1262,4 +1262,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): verificar se vai ter fisioterapia
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261030-trocarroteadordoscli@agenda.matheus
+DTSTAMP:20261029T001407
+DTSTART:20261030T094500
+DTEND:20261030T094500
+SUMMARY:[Matheus] Trocar roteador dos clientes da Matriz
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): Trocar roteador dos clientes da Matriz
+END:VALARM
+END:VEVENT
 END:VCALENDAR
