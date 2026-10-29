@@ -1298,4 +1298,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): pegar bateria no barco para recarregar
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261030-pegarbaterianobarcop@agenda.matheus
+DTSTAMP:20261029T001540
+DTSTART:20261030T140000
+DTEND:20261030T140000
+SUMMARY:[Matheus] pegar bateria no barco para recarregar
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): pegar bateria no barco para recarregar
+END:VALARM
+END:VEVENT
 END:VCALENDAR
