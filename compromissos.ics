@@ -1274,4 +1274,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Trocar roteador dos clientes da Matriz
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261030-verificarleddavitrin@agenda.matheus
+DTSTAMP:20261029T001442
+DTSTART:20261030T095000
+DTEND:20261030T095000
+SUMMARY:[Matheus] verificar led da vitrine matriz
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): verificar led da vitrine matriz
+END:VALARM
+END:VEVENT
 END:VCALENDAR
