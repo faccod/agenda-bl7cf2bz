@@ -1358,4 +1358,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Mandar opções para triz
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261106-verificarsecauanotou@agenda.matheus
+DTSTAMP:20261030T181627
+DTSTART:20261106T140000
+DTEND:20261106T140000
+SUMMARY:[Matheus] verificar se Cauã anotou a Heineken da
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): verificar se Cauã anotou a Heineken da
+END:VALARM
+END:VEVENT
 END:VCALENDAR
