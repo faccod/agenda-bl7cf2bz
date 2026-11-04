@@ -1370,4 +1370,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): verificar se Cauã anotou a Heineken da
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261105-pedirbobinasmquinade@agenda.matheus
+DTSTAMP:20261104T142202
+DTSTART:20261105T130000
+DTEND:20261105T130000
+SUMMARY:[Matheus] pedir bobinas máquina de cartão
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): pedir bobinas máquina de cartão
+END:VALARM
+END:VEVENT
 END:VCALENDAR
