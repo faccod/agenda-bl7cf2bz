@@ -1382,4 +1382,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): pedir bobinas máquina de cartão
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261106-7dezembroscarretadac@agenda.matheus
+DTSTAMP:20261105T235001
+DTSTART:20261106T100000
+DTEND:20261106T100000
+SUMMARY:[Andressa] 7 dezembro Às Carreta da coca cola de Natal
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): 7 dezembro Às Carreta da coca cola de Natal
+END:VALARM
+END:VEVENT
 END:VCALENDAR
