@@ -1406,4 +1406,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): Cirurgia do Antônio As Hospital Santa Rita
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261118-fazerasunhasparaaniv@agenda.matheus
+DTSTAMP:20261109T122438
+DTSTART:20261118T133000
+DTEND:20261118T133000
+SUMMARY:[Matheus] Fazer as unhas para aniversário do Antônio e meu h
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Matheus): Fazer as unhas para aniversário do Antônio e meu h
+END:VALARM
+END:VEVENT
 END:VCALENDAR
