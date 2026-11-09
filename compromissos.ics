@@ -1394,4 +1394,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): 7 dezembro Às Carreta da coca cola de Natal
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20270126-cirurgiadoantnioasho@agenda.matheus
+DTSTAMP:20261109T121951
+DTSTART:20270126T070000
+DTEND:20270126T070000
+SUMMARY:[Andressa] Cirurgia do Antônio As Hospital Santa Rita
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): Cirurgia do Antônio As Hospital Santa Rita
+END:VALARM
+END:VEVENT
 END:VCALENDAR
