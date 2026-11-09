@@ -1418,4 +1418,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Matheus): Fazer as unhas para aniversário do Antônio e meu h
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261110-emcortarocabelodoant@agenda.matheus
+DTSTAMP:20261109T143944
+DTSTART:20261110T080000
+DTEND:20261110T080000
+SUMMARY:[Andressa] em cortar o cabelo do Antônio para o aniversário
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): em cortar o cabelo do Antônio para o aniversário
+END:VALARM
+END:VEVENT
 END:VCALENDAR
