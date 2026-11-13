@@ -1490,4 +1490,16 @@ ACTION:DISPLAY
 DESCRIPTION:Lembrete (Andressa): 19 janeiro 2027 Médica do Antônio Endocrinologista 10
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20261207-dentistadoantniodrai@agenda.matheus
+DTSTAMP:20261113T131043
+DTSTART:20261207T100000
+DTEND:20261207T100000
+SUMMARY:[Andressa] dentista do Antônio dra Ingrid em Smj
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete (Andressa): dentista do Antônio dra Ingrid em Smj
+END:VALARM
+END:VEVENT
 END:VCALENDAR
